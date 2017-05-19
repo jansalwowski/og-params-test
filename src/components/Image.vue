@@ -15,7 +15,7 @@
 
     head: {
       meta: [
-        {property: 'og:image', content: this.image},
+        {property: 'og:image', content: 'https://i1.kwejk.pl/k/obrazki/2012/04/5d12fa84b1ae6df938290e38ce8b52f8.jpg'},
         {property: 'og:description', content: 'Ble ble ble :D'}
       ]
     }
